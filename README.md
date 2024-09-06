@@ -109,15 +109,6 @@ Ensure you have Python and the required libraries installed. You can install the
 pip install numpy pandas matplotlib statsmodels
 ```
 
-
-
-## Results
-
-The output includes:
-
-- Plots of the synthetic spread and Z-score.
-- Performance metrics: Annualized performance (APR) and Sharpe ratio.
-
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
